@@ -7,8 +7,10 @@ request.onload=function(){
     }
 for(var i=0;i<result.length;i++){
 console.log(result[i].name,result[i].capital,result[i].flag);
-
-    }
+   }
+    for(var j in result[i]){
+        console.log(j,result[i][j]);    
+}
 }
 
 
