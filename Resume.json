@@ -1,4 +1,4 @@
-var resume={
+[{
     "name":"Maharaja",
     "email":"maharaja51442@hotmail.com",
     "phone":"8248436861",
@@ -37,4 +37,4 @@ var resume={
         ]
       }
     ]
-  }
+  }]
